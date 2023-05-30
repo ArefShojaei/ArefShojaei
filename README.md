@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there , I am Aref Shoajei 👋</h1>
+<h1 align='center'>Hi there , I am Aref Shojaei 👋</h1>
 <img src='https://github.com/ArefShojaei/ArefShojaei/assets/134844185/e762a612-7ff6-46a1-956f-b9798d3121b0' />
 
 <br/>
