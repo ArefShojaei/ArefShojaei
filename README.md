@@ -10,10 +10,6 @@
 <h3>💻 Javascript Front-end and Back-end developer with 2+ years of experience.</h3>
 <h4>💯 My favorite tasks are learning, practicing and trying again daily.</h4>
 <h4>🥇 "Learn More, Try More = You'll be professional developer" </h4>
-<h4>▶️ UI ➡️ Front ➡️ Back = 😍 New App</h4>
-<h4>Connecting with me :</h4>
-<a href='https://www.linkedin.com/in/aref-shojaei-832580279'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<br/>
 <br/>
 <h2>💡 Skills :</h2>
 
