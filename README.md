@@ -39,7 +39,6 @@
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=bootstrap"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=alpinejs"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=jquery"></code>
-<code><img height="40" width="40" src="https://skillicons.dev/icons?i=regex"></code>
 <code><img height="40" width="40" src="https://skillicons.dev/icons?i=electron"></code>
 <code><span height="40" width="40">+ Other Tools</span></code>
 
