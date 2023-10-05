@@ -6,7 +6,7 @@
 
 <img align="right" width="200" alt="GIF" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" />
 
-<h3>💻 Javascript Front-end and Back-end developer with 2+ years of experience.</h3>
+<h3>💻 Javascript Front-end & Back-end developer with 2+ years of experience.</h3>
 <h4>💯 My favorite tasks are learning, practicing and trying again daily.</h4>
 <h4>🥇 "Learn More, Try More = You'll be professional developer" </h4>
 <br/>
