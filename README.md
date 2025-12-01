@@ -34,6 +34,10 @@
 
 ###
 
+<h3 align="left">Programming languages</h3>
+
+###
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -52,9 +56,6 @@
 
 ###
 
-<h3 align="left">Programming languages</h3>
-
-###
 
 <h3 align="left">Front-end</h3>
 
@@ -178,11 +179,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArefShojaei/ArefShojaei/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArefShojaei/ArefShojaei/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArefShojaei/ArefShojaei/output/pacman-contribution-graph.svg">
-</picture>
+<hr />
 
 ###
 
