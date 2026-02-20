@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="140" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ1NzQzNzcsIm5iZiI6MTc2NDU3NDA3NywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEyMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMjAxVDA3Mjc1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlZGFjNDYzM2RlZmU3ZWIwYTA4ZGUxN2I1YzQwYzg5NDc0MzJkZjVmMWE4NDliMjg3OWU2YjRkOWM5N2IzZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.RwR3PAfiLAIUihTa3VSlb4vmvp1v4YplkEDS2yRkTuA"  />
+  <img src="https://github.com/user-attachments/assets/01eba7a1-e539-496e-bd09-da4b4cd5e2c1" />
 </div>
 
 ###
@@ -185,7 +185,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ArefShojaei&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=ArefShojaei&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArefShojaei&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
