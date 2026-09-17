@@ -3,7 +3,7 @@
 ### Software Developer | Framework & Library Builder
 
 ✨ Software Developer with **3+ years** of experience.  
-I love building clean, modular and production-ready software — not just code that works, but code that lasts.
+I build clean, modular and production-ready tools — not just code that works, but code that lasts.
 
 📚 Currently diving deep into **Software Engineering & Architecture**  
 🎯 Goal: Build software that doesn’t just work — it works *beautifully*. Clean code, solid architecture, zero technical debt.
@@ -21,14 +21,10 @@ I love building clean, modular and production-ready software — not just code t
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Backend & Frameworks**  
-PHP (Lite-PHP, Delta, Routex) • Node.js • Express • Dart (River)
-
-**Tools & Others**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Package Registries**  
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=composer&logoColor=white)](https://packagist.org/users/ArefShojaei)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@aref-shojaei/router)
+[![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/packages/river)
 
 ---
 
@@ -41,12 +37,16 @@ PHP (Lite-PHP, Delta, Routex) • Node.js • Express • Dart (River)
 | [**River**](https://github.com/ArefShojaei/River) | Lightweight Express-like HTTP & WebSocket framework for Dart | Dart | ![Stars](https://img.shields.io/github/stars/ArefShojaei/River?style=social) |
 | [**Router**](https://github.com/ArefShojaei/Router) | Lightweight client-side SPA Router for JavaScript | JavaScript | ![Stars](https://img.shields.io/github/stars/ArefShojaei/Router?style=social) |
 | [**Digikala Scraper**](https://github.com/ArefShojaei/Digikala-scraper) | Digikala website scraper + REST API | Node.js | ![Stars](https://img.shields.io/github/stars/ArefShojaei/Digikala-scraper?style=social) |
-
 ---
 
-### 📦 Packagist Packages
-I publish most of my PHP work on Packagist:  
-[packagist.org/users/ArefShojaei](https://packagist.org/users/ArefShojaei)
+### 📦 Published Packages
+
+- **Packagist** → [packagist.org/users/ArefShojaei](https://packagist.org/users/ArefShojaei)  
+  (Lite-PHP, Delta, Routex, KitDash, Class-validator, TGram, Spider, PhpX, ...)
+
+- **npm** → [@aref-shojaei/router](https://www.npmjs.com/package/@aref-shojaei/router)
+
+- **pub.dev** → [river](https://pub.dev/packages/river)
 
 ---
 
@@ -58,4 +58,4 @@ I publish most of my PHP work on Packagist:
 
 ---
 
-⭐ If you like any of my projects, feel free to give them a star. It really motivates me!
+⭐ If any of my packages or projects help you, feel free to give them a star!
