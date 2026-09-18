@@ -55,6 +55,7 @@ I build clean, modular and production-ready tools — not just code that works, 
 - LinkedIn: [linkedin.com/in/ArefShojaei](https://www.linkedin.com/in/ArefShojaei)
 - Email: arefshojaei82@gmail.com
 - GitHub: [@ArefShojaei](https://github.com/ArefShojaei)
+- Telegram: [@End_toend](https://t.me/end_toend)
 
 ---
 
